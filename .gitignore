@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+# Herramientas y archivos temporales de documentación.
+/documentacion/trabajo/convertidor/
+/documentacion/trabajo/lo-profile/
+/documentacion/trabajo/docx_render/
+/documentacion/trabajo/pagina-*.png
+/documentacion/trabajo/revision-*.png

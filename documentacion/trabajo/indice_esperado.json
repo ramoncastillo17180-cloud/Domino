@@ -1,0 +1,132 @@
+[
+  [
+    "1. RESUMEN",
+    3,
+    "h"
+  ],
+  [
+    "1.1. Síntesis del Proyecto",
+    3,
+    "sub"
+  ],
+  [
+    "2. INTRODUCCIÓN",
+    3,
+    "h"
+  ],
+  [
+    "2.1. Contexto Teórico",
+    3,
+    "sub"
+  ],
+  [
+    "2.2. Planteamiento del Problema",
+    4,
+    "sub"
+  ],
+  [
+    "2.3. Diagrama de caso de uso del caso de estudio",
+    4,
+    "sub"
+  ],
+  [
+    "3. DESARROLLO",
+    5,
+    "h"
+  ],
+  [
+    "3.1. Arquitectura del Agente Inteligente",
+    5,
+    "sub"
+  ],
+  [
+    "3.1.1. Identificación y Clasificación del Tipo de Agente",
+    5,
+    "sub"
+  ],
+  [
+    "3.1.2. Matriz de Diagnóstico del Modelo PEAS/RASA",
+    5,
+    "sub"
+  ],
+  [
+    "3.2. Propiedades del Entorno de Búsqueda",
+    6,
+    "sub"
+  ],
+  [
+    "3.4. Diagrama de componentes del caso a desarrollar",
+    6,
+    "sub"
+  ],
+  [
+    "3.5. Abstracción del Espacio de Estados",
+    7,
+    "sub"
+  ],
+  [
+    "4. ALGORITMO DE BÚSQUEDA UTILIZADO",
+    8,
+    "h"
+  ],
+  [
+    "4.1. Descripción de la Estrategia Seleccionada",
+    8,
+    "sub"
+  ],
+  [
+    "4.2. Formulación de Costos",
+    9,
+    "sub"
+  ],
+  [
+    "5. CÓDIGO FUENTE",
+    9,
+    "h"
+  ],
+  [
+    "5.1. Implementación de Clases y Funciones",
+    9,
+    "sub"
+  ],
+  [
+    "6. CAPTURA DE PANTALLA DE EJECUCIÓN",
+    11,
+    "h"
+  ],
+  [
+    "6.1. Evidencia del Sistema en Funcionamiento",
+    11,
+    "sub"
+  ],
+  [
+    "6.2. Comparativa de Eficiencia entre Estrategias",
+    14,
+    "sub"
+  ],
+  [
+    "7. CONCLUSIONES",
+    15,
+    "h"
+  ],
+  [
+    "7.1. Análisis y Cierre",
+    15,
+    "sub"
+  ],
+  [
+    "7.2. Propuestas de Mejora",
+    15,
+    "sub"
+  ],
+  [
+    "8.0. REFERENCIAS BIBLIOGRÁFICAS",
+    16,
+    "h"
+  ],
+  [
+    "9.0. APÉNDICES / ANEXOS",
+    16,
+    "h"
+  ]
+]

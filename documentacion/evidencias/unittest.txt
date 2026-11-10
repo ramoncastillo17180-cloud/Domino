@@ -1,0 +1,22 @@
+test_bfs_minimum_distances_exhaustive (tests.DeliveryChecks.test_bfs_minimum_distances_exhaustive)
+Contrasta BFS con relajaci�n de aristas, sin usar otra cola BFS. ... ok
+test_branch_simultaneous_every_frame (tests.DeliveryChecks.test_branch_simultaneous_every_frame) ... ok
+test_table_displays_actual_calculations (tests.DeliveryChecks.test_table_displays_actual_calculations) ... ok
+test_parallel_frames_and_finish (tests.PlaybackTests.test_parallel_frames_and_finish) ... ok
+test_pause_resume_reset (tests.PlaybackTests.test_pause_resume_reset) ... ok
+test_steps_and_algorithm_change (tests.PlaybackTests.test_steps_and_algorithm_change) ... ok
+test_all_scenarios (tests.ScenarioTests.test_all_scenarios) ... ok
+test_missing_or_unreachable_target (tests.ScenarioTests.test_missing_or_unreachable_target) ... ok
+test_target_at_start (tests.ScenarioTests.test_target_at_start) ... ok
+test_branch (tests.SearchTests.test_branch) ... ok
+test_chain (tests.SearchTests.test_chain) ... ok
+test_cycles_minimum_levels (tests.SearchTests.test_cycles_minimum_levels) ... ok
+test_dfs_and_comparison (tests.SearchTests.test_dfs_and_comparison) ... ok
+test_invalid_start (tests.SearchTests.test_invalid_start) ... ok
+test_isolated_and_blocked (tests.SearchTests.test_isolated_and_blocked) ... ok
+test_obstacle_detour (tests.SearchTests.test_obstacle_detour) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 1.935s
+
+OK

@@ -1,0 +1,17 @@
+{
+  "python": "3.13.17",
+  "results": [
+    {
+      "algorithm": "BFS",
+      "nodes": 31,
+      "route": 9,
+      "ms": 0.04830001853406429
+    },
+    {
+      "algorithm": "DFS",
+      "nodes": 26,
+      "route": 19,
+      "ms": 0.038100057281553745
+    }
+  ]
+}
